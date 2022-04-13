@@ -1,0 +1,46 @@
+Attribute Information:
+
+	Season in which the analysis was performed. 1) winter, 2) spring, 3) Summer, 4) fall. (-1, -0.33, 0.33, 1)
+
+	Age at the time of analysis. 18-36 (0, 1)
+
+	Childish diseases (ie , chicken pox, measles, mumps, polio) 1) yes, 2) no. (0, 1)
+
+	Accident or serious trauma 1) yes, 2) no. (0, 1)
+
+	Surgical intervention 1) yes, 2) no. (0, 1)
+
+	High fevers in the last year 1) less than three months ago, 2) more than three months ago, 3) no. (-1, 0, 1)
+
+	Frequency of alcohol consumption 1) several times a day, 2) every day, 3) several times a week, 4) once a week, 5) hardly ever or never (0, 1)
+
+	Smoking habit 1) never, 2) occasional 3) daily. (-1, 0, 1)
+
+	Number of hours spent sitting per day ene-16 (0, 1)
+
+	Output: Diagnosis normal (1), altered (0)
+
+
+
+
+Información de atributos:
+
+	Temporada en la que se realizó el análisis. 1) invierno, 2) primavera, 3) verano, 4) otoño. (-1, -0.33, 0.33, 1)
+
+	Edad en el momento del análisis. 18-36 (0, 1)
+
+	Enfermedades infantiles (es decir, varicela, sarampión, paperas, polio) 1) sí, 2) no. (0, 1)
+
+	Accidente o traumatismo grave 1) sí, 2) no. (0, 1)
+
+	Intervención quirúrgica 1) sí, 2) no. (0, 1)
+
+	Fiebre alta en el último año 1) hace menos de tres meses, 2) hace más de tres meses, 3) no. (-1, 0, 1)
+
+	Frecuencia de consumo de alcohol 1) varias veces al día, 2) todos los días, 3) varias veces a la semana, 4) una vez a la semana, 5) casi nunca o nunca (0, 1)
+
+	Hábito de fumar 1) nunca, 2) ocasionalmente 3) diariamente. (-1, 0, 1)
+
+	Número de horas sentadas al día ene-16 (0, 1)
+
+	Salida: Diagnóstico normal (1), alterado (0)
